@@ -33,7 +33,7 @@ contract SolnSquareVerifier is VeectroPropertyToken {
     }
 
     // TODO Create a function to add the solutions to the array and emit the event
-    function addSolution(uint256 index, address clientAddress) internal {
+    function addSolution(uint256 index, address clientAddress) public {
         Solution memory solution = Solution(
         {
         index : index,
