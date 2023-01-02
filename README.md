@@ -30,6 +30,24 @@ Test result :
 
 ![test_result.png](images%2Ftest_result.png)
 
+
+## Contract Address
+The smart contract is deployed in the `goerli`-Network with following addresses:
+
+### Verifier
+[link](https://goerli.etherscan.io/address/0x88cb33f44929cb429d8f34999eb2bf8007a6ee58)
+```
+transaction hash:     0x78a420479b0468c640846b5b4f5aa14a1056c8b150fb2121169df2574176e972
+contract address:     0x0bEB3a87AEF10c8c9799029f7A871038d28bbA9f
+```
+
+### SolnSquareVerifier
+[link](https://goerli.etherscan.io/address/0x0D3f2Ae34572128103662B69D3f5A8dD2162693D)
+```
+transaction hash:     0xf5382558e964fcff0e382cf9b7398c2dd930679e079da9a8fa38351e0e9a23b1
+contract address:     0x0D3f2Ae34572128103662B69D3f5A8dD2162693D
+```
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
